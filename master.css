@@ -1,0 +1,29 @@
+nav {
+    padding: 10px;
+    margin: 10px;
+
+    border: 2px solid black;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flightSearch {
+    padding: 10px;
+    margin: 50px;
+
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+.inputRow {
+    display: flex;
+}
+
+.mainInput {
+    padding: 10px;
+
+}
